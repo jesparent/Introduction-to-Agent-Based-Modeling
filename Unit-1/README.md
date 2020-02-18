@@ -13,3 +13,6 @@
 - Robustness: system maintains its characteristic behavior even after perturbation (resillience?) 
 - Diversity and Heterogenity
   - Most traditional modeling approaches fail to accurately capture heterogeneity of individuals
+  - Standing Ovation problem (different trehsholds for when / who stands). Honey Bee wings. 
+- Interconnectedness and Interactions
+  - Retweet networks
