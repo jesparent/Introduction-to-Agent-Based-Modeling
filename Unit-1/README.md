@@ -1,5 +1,4 @@
- # Unit 1
-
+# Unit 1: What is Agent-Based Modeling and Why Should You Use It?
 ## Notes & Terms
 ### 1.6 (ABM related terms)
 - Complexity
@@ -84,3 +83,12 @@
    - System Dynamics Modeling embraces a system-level approach to thinking about the world
    - Lacks individual-level representation
    - Hybrid models are possible 
+- Limitations
+   - High computational cost
+   - Many free parameters
+   - May require individual-level behavioral knowledge 
+ - Why resistance against ABM?
+   - Lack of education about complex systems
+   - "parable of the drunk, keys, and streetlight"
+   - Centralized and Deterministic Mindset (Resnick and Wilensky, 1993)
+     - People expect there to be a central leader. Everything happens to a "cause", negate possibility of chance.
