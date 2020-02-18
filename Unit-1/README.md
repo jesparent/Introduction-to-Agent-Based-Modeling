@@ -1,7 +1,7 @@
  # Unit 1
 
-### Notes & Terms
-#### 1.6 (ABM related terms)
+## Notes & Terms
+### 1.6 (ABM related terms)
 - Complexity
 - Emergence
 - Feedbacks
@@ -17,7 +17,7 @@
 - Interconnectedness and Interactions
   - Retweet networks
 
-#### 1.7 Why Use ABM
+### 1.7 Why Use ABM
 - Representation
   - Representation as key to understanding phenomeon ( E G R T ). Math vs Models.
 - Benefits of Appropriate Representation
@@ -37,3 +37,25 @@
   - Flocking Model exercise
   - Propose rules and see if they generate phenomenon we observe
   
+### 1.8 When you should use ABM
+  The more of these features, the more you ABM applicable
+1. Medium Numbers
+   - If too fiew agents, system may be too simple: try game theory or ethnography
+   - Too many agents and averages may describe fields (mean-field, stat descriptions)
+   - The number of agents that can affect outcome of system should be a median number (Casti, 1996)
+2. Heterogeneity
+   - as hetero as they need to be
+3. Complex but Local Interactions
+   - history & property dependent 
+   - assumptions are local - no global knowledge
+4. Rich Environments
+   - Environments can have own agent-like rules
+   - Provesss (ABM) vs Pattern (environment)
+5. Time
+   - Ticks as discrete units of time
+   - exceptions to necessity: complex equlibrium problems
+6. Adaptation
+   - ^ when agent's actions are contingent on their past history (DEVELOPMENT)
+   - Agent may take different actions depending on its own past experience
+   - Usually sufficient
+   - Few modeling approaches besides ABM feature adaptive individuals 
