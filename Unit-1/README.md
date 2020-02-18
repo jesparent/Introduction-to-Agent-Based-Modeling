@@ -59,3 +59,28 @@
    - Agent may take different actions depending on its own past experience
    - Usually sufficient
    - Few modeling approaches besides ABM feature adaptive individuals 
+
+### 1.9 Comparing ABM To other methods (Equation-Based et al)
+- vs Equation-Based Modeling
+   - EBMs may assume homogeneity
+   - EBMs are often continous and not discrete (nano-wolf problem, Wilson 1998)
+   - Aggregate knowledge
+   - Ontology of EBMs at global level
+   - EBM does not provide local detail
+   - EBMs are top-down, ABM bottom-up
+   - EBM are generalizable, but restricted
+   - ABM can be built from analytical models, and can complement EBMs
+- vs Statistical Modeling
+   - Hard to link to first principles and behavioral theory
+   - Need to ahve the right kind of data
+   - ABM can compliment by building from first principles to statstic results 
+- vs Lab Experiments
+   - can generate theory
+   - rarely scaled up
+   - ABM from Lab experiments
+     - macro-implications of lab experiments
+     - new hypotheses, determine sensitivity of results, generative principles
+ - vs Aggregate CPU Modeling
+   - System Dynamics Modeling embraces a system-level approach to thinking about the world
+   - Lacks individual-level representation
+   - Hybrid models are possible 
