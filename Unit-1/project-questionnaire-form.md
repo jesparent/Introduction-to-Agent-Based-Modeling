@@ -71,9 +71,49 @@ These questions are intended to focus your thoughts on a phenomenon for which yo
 (9)   What do you hope to observe from this model?
 
 
+# Responses
+
+- (1) What part of your phenomenon would you like to build a model of?
+  - Teamwork or amounts of cooperation between agents of different collboration viewsw
+
+- (2) What are the principal types of agents involved in this phenomenon?
+  - Biological life forms. Potentially humans, social animals.
+
+- (3) What properties do these agents have (describe by agent type)?
+  - Variations of cooperation. This could be motivation, resoures, cultures, etc. 
+  - Most basic division: 
+    - Type 1 agents are uncooperative and do not interact with resources together
+    - Type 2 agents are coooperative and interact with resources together 
+
+- (4) What actions (or behaviors) can these agents take (describe by agent type)?
+  - They can identify resources in the enviornment 
+  - Type 1 Agents will not recognize or make choices based off of presence of other agents
+  - Type 2 agents will seek to oprate in concert with other agents
+
+- (5) If the agents have goals, what are their goals (describe by agent type)?
+  - Type 1: collect resources
+  - Type 2: collect resources, work with others (PROXIMITY?)
+
+- (6) In what kind of environment do these agents operate?
+  - Simplest terms, resources scattered throughout environment. More advanced may have resources that influence other actions, fitness, or potentially barriers that inhibit travel. 
+
+- (7) How do these agents interact with this environment?
+  - Consume resources
+  - I'm unsure of how complicated I can make social dynamics between the agents yet, but things like pooling resources, teamwork, tribe affiliation all come to mind. 
+  - If possible, there may be generations of agents over time
+
+- (8) If you had to ÒdiscretizeÓ the phenomenon into time steps, what events and in what order would occur during any one time step?
+
+  - Each step would be one movement
+  - Resources can be consumed in a particular ratio of resource "amount" and agent consumption. A larger resource may be more for one agent, or less for a group. 
+  - Proximity of agents affects social dynamics
+  - Movement, Seeking resources, affiliation management. Potentially, birth, growth, death. 
+
+- (9) What do you hope to observe from this model?
+  - I'm curious how different takes on teamwork affects resource consumption and other-agent/group interactions. What patterns of resource consumption or group size will emerge. 
 
 
 
-Thank you in advance for your time and effort on these questionnaires.  We look forward to seeing you soon.
+
 
 
